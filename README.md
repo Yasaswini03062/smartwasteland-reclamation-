@@ -71,9 +71,11 @@ Integrate satellite & IoT data for real-time recommendations.
 Extend model to multiple regions and crop types.
 
 ##Contributors
+
 Yasaswini CHALUVADHI,
 
 poojitha KV
+
 
 
 
